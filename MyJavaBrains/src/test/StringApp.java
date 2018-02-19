@@ -3,8 +3,10 @@ package test;
 public class StringApp {
 
 	
-	private void mian() {
-		// TODO Auto-generated method stub
-
+	public static void main(String[] args) {
+		   System.out.println("manindra");
 	}
+		
+    
+	
 }
