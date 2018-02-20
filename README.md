@@ -1,2 +1,2 @@
 # JavaMind
-start 123
+start 123 456
